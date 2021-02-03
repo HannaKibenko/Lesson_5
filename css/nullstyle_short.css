@@ -44,11 +44,9 @@ body {
 }
 .content {
 	padding: 198px 0 0 0;
-	background-color: cadetblue;
 }
 .title__content {
 	max-width: 667px;
-	background-color: aqua;
 }
 .title {
 	font-family: Lora;
@@ -62,7 +60,6 @@ body {
 }
 .subtitle {
 	font-family: Lato;
-	background-color: blanchedalmond;
 	display: inline-block;
 }
 
@@ -141,14 +138,13 @@ img {
 .heading__text {
 	max-width: 381px;
 	padding: 0 0 0 30px;
-	background-color: blueviolet;
 }
 
 .text {
 	display: inline-block;
 	font-family: Lato;
 	font-weight: 700;
-	color: #fff;
+	color: #000;
 	font-size: 20px;
 	height: 72px;
 	width: 293px;
@@ -164,6 +160,7 @@ img {
 	background-color: #ff5722;
 }
 .text3 {
+	color: #fff;
 }
 .text4 {
 }
