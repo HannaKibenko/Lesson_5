@@ -1,0 +1,182 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@700&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Lato&display=swap");
+
+*,
+* ::before,
+* ::after {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	box-sizing: border-box;
+}
+li {
+	list-style: none;
+}
+a,
+a:visited {
+	text-dekoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	font-weight: inherit;
+	font-size: inherit;
+}
+img {
+	vertical-align: top;
+}
+
+body {
+	max-width: 1110px;
+	margin: 0 auto;
+}
+
+.header {
+}
+.main {
+}
+.content {
+	padding: 198px 0 0 0;
+	background-color: cadetblue;
+}
+.title__content {
+	max-width: 667px;
+	background-color: aqua;
+}
+.title {
+	font-family: Lora;
+	font-weight: 700;
+	font-size: 52px;
+	color: rgba(16, 55, 92, 1);
+	display: inline-block;
+}
+.title span {
+	color: rgba(221, 44, 0, 1);
+}
+.subtitle {
+	font-family: Lato;
+	background-color: blanchedalmond;
+	display: inline-block;
+}
+
+.subtitle__content {
+	font-size: 20px;
+	line-height: 150%;
+	max-width: 382px;
+	margin: -300 0px 0 728px;
+	padding: 40px 0 0 0;
+}
+
+.image {
+	max-width: 100%;
+	margin: 0 0 0 315px;
+}
+img {
+	width: 0 960px;
+}
+.form {
+	margin: -534px 0 0 0;
+}
+.title__colums {
+	padding: 0 164px 0 0;
+}
+.subtitle__colums {
+	max-width: 452px;
+	font-size: 18px;
+	line-height: 155%;
+	color: rgba(154, 154, 154, 1);
+}
+.colums {
+	padding: 115px 0 0 0;
+}
+.colum__images {
+	margin: 0 0 200px 0;
+}
+.img__left {
+	padding: 0 15px 0 0;
+}
+.img__center {
+	margin: 0 -15px 0 -15px;
+	padding: 0 15px 0 15px;
+}
+.img__right {
+	padding: 0 0 0 15px;
+}
+.our__support {
+	padding: 30px 65px 0 0px;
+}
+.frispes {
+	margin: 0 0 150px 0;
+}
+.why__fripes {
+}
+.heading {
+}
+.heading__title {
+	font-family: lato;
+	font-size: 20px;
+	margin: 0 0 8px 0;
+}
+
+.heading__title span {
+	display: inline-block;
+	padding: 0 15px 0 0;
+}
+.heading__subtitle {
+	font-size: 40px;
+	max-width: 570px;
+	line-height: 128%;
+	margin: 0 0 50px 0;
+}
+
+.heading__content {
+}
+.heading__text {
+	max-width: 381px;
+	padding: 0 0 0 30px;
+	background-color: blueviolet;
+}
+
+.text {
+	display: inline-block;
+	font-family: Lato;
+	font-weight: 700;
+	color: #fff;
+	font-size: 20px;
+	height: 72px;
+	width: 293px;
+	padding: 24px 0 0 15px;
+}
+
+.text1 {
+}
+.text2 {
+}
+.block {
+	display: inline-block;
+	background-color: #ff5722;
+}
+.text3 {
+}
+.text4 {
+}
+.heading__image {
+	padding: 0 0 0 381px;
+	margin: -290px 0 0 0;
+}
+
+.heading__image img {
+	max-width: 100%;
+}
+.footer {
+	max-width: 1140px;
+	height: 408px;
+	overflow: auto;
+}
